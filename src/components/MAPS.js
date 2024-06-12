@@ -1,6 +1,6 @@
 export const MAPS = {
 	Crypts: {
-		crypts1: 'src/img/Crypt1.png',
+		crypts1: './src/img/Crypt1.png',
         crypts2: 'src/img/Crypt2.png',
 		crypts3: 'src/img/Crypt3.png',
 		crypts4: 'src/img/Crypt4.png',
